@@ -7,6 +7,10 @@
 [![GitHubissues](https://img.shields.io/github/issues/cbrgm/telegram-robot-rss.svg)](https://github.com/cbrgm/telegram-robot-rss/issues)
 [![GitHub license](https://img.shields.io/badge/telegram-%40RobotRssBot-blue.svg)](https://telegram.me/RobotRssBot)
 
+## Deploy to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Description
 
 RobotRSS is an RSS Bot for the Telegram Messenger. Subscribe to different news channels and stay up-to-date. Receive instant messages in your Messenger app when websites are updated, e. g. on news pages, blogs or audio/video logs.
